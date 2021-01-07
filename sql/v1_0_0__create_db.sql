@@ -1,0 +1,1 @@
+CREATE DATABASE spatial_db_project;
