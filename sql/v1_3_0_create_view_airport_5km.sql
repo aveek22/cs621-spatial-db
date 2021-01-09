@@ -1,0 +1,9 @@
+CREATE OR REPLACE VIEW vw_mumbai_houses_airport_5km
+AS
+SELECT *
+FROM mumbai_house_price_raw
+WHERE 1=1
+AND ST_DISTANCE(
+	ST_TRANSFORM(ST_GEOMFROMTEXT('POINT(72.874374 19.096713)',4326), 7755),
+	ST_TRANSFORM((geometry),7755)
+) <= 5000;
