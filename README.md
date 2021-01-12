@@ -7,7 +7,7 @@ Date: **10-Jan-2021**
 ### Project Details
 Dataset: Kaggle https://www.kaggle.com/jedipro/flats-for-rent-in-mumbai
 
-Blog: https://medium.com/p/7383e4223d0d/edit?source=your_stories_page-------------------------------------
+Blog: https://towardsdatascience.com/analyzing-houses-for-rent-in-mumbai-using-qgis-and-postgis-functions-7383e4223d0d
 
 ## Tools Required
 * PostgreSQL
