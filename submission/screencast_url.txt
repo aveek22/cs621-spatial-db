@@ -1,7 +1,8 @@
-The screencast can be found in either of the following two URLs.
+The screencast video can be found in either of the following URLs.
 
+* https://web.microsoftstream.com/video/aa4a344f-6255-4120-9d55-38c276d49b0b
 * https://www.dropbox.com/s/q08lb25rb0qocm2/spatial_db_project_screencast.mov?dl=0
 * https://drive.google.com/file/d/1fp2TTEEuMqVshtu16eh9sabapgky9paW/view?usp=sharing
 
 Code is hosted on Github.
-https://github.com/aveek22/cs621-spatial-db
+* https://github.com/aveek22/cs621-spatial-db
